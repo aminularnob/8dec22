@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.section-1{
+    height: 900px;
+   
+    background-image: url("header-bg.png");
+}
+.half-width{
+    float: left;
+    width: 40%;
+   padding-bottom: 100px;
+   padding-top: 50px;
+    
+}
+.peter{
+   
+    width: 100%;
+}
+.intro{
+   margin: 100px 0px 100px 10%;
+   font-size: 50px;
+
+}
+h2{
+    font-size: 35px;
+}
+.name{
+    font-size: 55px;
+    color: rgb(248, 51, 117);
+    font-weight: 700;
+}
+p{
+    color:dimgray;
+    font-size: 20px;
+}
+.btn{
+    padding-top: 10px;
+}
+.hire-btn{
+
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-image: linear-gradient(45deg, rgb(248, 51, 117),rgb(179, 72, 90));
+
+}
+.section-2{
+    height: 1100px;
+    
+    background-image: url("biography-bg.png");
+}
+.cv-btn{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-image: linear-gradient(45deg, rgb(248, 51, 117),rgb(179, 72, 90));
+
+}
+.biography{
+    padding-left: 10%;
+    padding-top: 10%;
+    font-size: 50px;
+}
+.section-3{
+    padding-top: 5%;
+    height: 700px;
+   
+    background-image: url("latest-work-bg.png");
+}
+.hot-gadgets{
+   margin-left: 14%;
+   margin-right: 5%;
+   
+}
+.work-latest{
+width: 30%;
+float: left;
+}
+.section-4{
+    padding-top:20px;
+    height: 600px;
+  
+    background-image: url("footer-bg.png");
+}
+.reviews{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(59, 59, 59);
+}
+.client1{
+    color: rgb(63, 61, 61);
+}
+.designation{
+    font-size: 20px;
+    color: dimgray;
+}
+.end-text{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(37, 31, 31);
+}
+
+.email{
+    
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin: 30px 30% 0px 30%;
+    background-image: linear-gradient(45deg, rgb(248, 51, 117),rgb(179, 72, 90));
+}
+.email-text{
+    padding: 5px;
+}
+.mail-add{
+    text-decoration: none;
+    color: white;
+}
